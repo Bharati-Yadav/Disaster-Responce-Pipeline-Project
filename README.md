@@ -41,5 +41,4 @@ This project is to classify disaster response messages through machine learning.
 |- ETL Pipeline Preparation.ipynb # etl exploration
 |- ML Pipeline Preparation.ipynb # ML exploration
 
-- README.md
 ```
